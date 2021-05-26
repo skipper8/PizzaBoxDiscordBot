@@ -153,4 +153,4 @@ async def end_game(ctx):
     prules.clear()
     await ctx.send('I had fun. We should play again sometime. Bye!')
 
-bot.run('Nzc5NTEzMjAwODY0Nzg4NTMx.X7hoPQ.9KMSdaZsUUotyktSu_g6S8I64ms')
+bot.run(token)
